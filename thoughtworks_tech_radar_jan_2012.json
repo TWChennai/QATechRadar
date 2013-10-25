@@ -11,7 +11,7 @@
     {"name":"Capybara", "pc":{"r":384,"t":315},"movement":"c", "description": "Abstraction layer is nice"},
     {"name":"Jmeter", "pc":{"r":385,"t":275},"movement":"c", "description": "Very efficient load generation"},
     {"name":"Calabash-iOS & Calabash-android", "pc":{"r":375,"t":345},"movement":"c", "description": "Very good hybrid app automation support"},
-    {"name":"Frank", "pc":{"r":386,"t":300},"movement":"c", "description": "Calabash-ios is going to be a plugin for Frank bcos of its more cooler features like browser UI inspector (Symbiote) etc. "},
+    {"name":"Frank", "pc":{"r":386,"t":300},"movement":"c", "description": "Calabash-ios is going to be a plugin for Frank because of its more cooler features like browser UI inspector (Symbiote) etc. "},
     {"name":"Flay gem", "pc":{"r":367,"t":350},"movement":"c", "description": "Light-weight and very fast ruby code inspection to indicate code duplication"},
 {"name":"NBuilder", "pc":{"r":368,"t":340},"movement":"c", "description": ""}, {"name":"White", "pc":{"r":290,"t":276},"movement":"c", "description": "White, which is a wrapper around UIAutomation does not expose the UIAutomation object which causes difficulty in identifying some custom elements in the Application"},
     {"name":"Odata", "pc":{"r":291,"t":315},"movement":"c", "description": "Using Odata, odata_ruby for accessing MSSQL db"},
